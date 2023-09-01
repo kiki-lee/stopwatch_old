@@ -1,0 +1,33 @@
+{
+    "name": "timer",
+    "description": "",
+    "dependencies": {
+        "device": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json",
+        "tilemap.g.jres",
+        "tilemap.g.ts",
+        "images.g.jres",
+        "images.g.ts",
+        "custom.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "branch": "v1.6.7",
+        "tag": "v1.6.7",
+        "commits": "https://github.com/microsoft/pxt-arcade/commits/df8cbfd31829508563fa67096db8a6fe6e1d06ec",
+        "target": "1.12.39",
+        "pxt": "7.2.12",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "tsprj"
+}
