@@ -1,5 +1,5 @@
 {
-    "name": "timer",
+    "name": "stopwatch",
     "version": "0.0.1",
     "description": "",
     "dependencies": {
@@ -10,11 +10,7 @@
         "main.ts",
         "README.md",
         "assets.json",
-        "tilemap.g.jres",
-        "tilemap.g.ts",
-        "images.g.jres",
-        "images.g.ts",
-        "custom.ts"
+        "stopwatch.ts"
     ],
     "testFiles": [
         "test.ts"
